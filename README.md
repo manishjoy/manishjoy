@@ -1,14 +1,14 @@
 
-# <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Hi.gif" width="30px">Hi, I am Manish Joy
+# <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Hi.gif" width="35px">Hi, I am Manish Joy
 
 I am a Full Stack Magento Developer and Tech enthusiast. I am passionate about technologies and love to learn new things.
 
-Apart from Technical interests, I love photography <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/photography.png" width="15px"> as well. You can check out my photography works over [here](https://manishjoy-photography.github.io/)
+Apart from Technical interests, I love photography <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/photography.png" width="18px"> as well. You can check out my photography works over [here](https://manishjoy-photography.github.io/)
 
-#### <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/work.png" width="15px"> I’m currently working as Software Developer | Sr. Magento Developer | LAMP - Magento at Vinove Software and Services Pvt. Ltd.
+#### <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/work.png" width="18px"> I’m currently working as Software Developer | Sr. Magento Developer | LAMP - Magento at Vinove Software and Services Pvt. Ltd.
 
 
-## <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/code.png" width="20px"> Tech Stack
+## <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/code.png" width="24px"> Tech Stack
 
 
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=00758F)
