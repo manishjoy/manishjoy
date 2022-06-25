@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Hi.gif" max-width="35px">Hi, I am Manish Joy
+# <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Hi.gif" width="35">Hi, I am Manish Joy
 
 I am a Full Stack Magento Developer and Tech enthusiast. I am passionate about technologies and love to learn new things.
 
