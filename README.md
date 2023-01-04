@@ -22,7 +22,7 @@ Apart from Technical interests, I love photography 📸 as well. You can check o
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
 ## <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/medal.png" width="24"> Certifications
-[<img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Adobe_Certified_Professional_Adobe_Commerce_Developer_badge_white.webp">](https://www.credly.com/badges/301c0285-0862-4241-8321-ee3405785d46/public_url/)
+[<img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/Adobe_Certified_Professional_Adobe_Commerce_Developer_badge_white.webp" height="100px">](https://www.credly.com/badges/301c0285-0862-4241-8321-ee3405785d46/public_url/)
 
 
 ## 📫 Get in touch
