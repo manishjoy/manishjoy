@@ -5,7 +5,7 @@ I am a Full Stack Magento Developer and Tech enthusiast. I am passionate about t
 
 Apart from Technical interests, I love photography 📸 as well. You can check out my photography works over [here](https://www.instagram.com/oyyejoy).
 
-#### <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/work.png" width="18"> I’m currently working as Software Developer | Sr. Magento Developer | LAMP - Magento at Vinove Software and Services Pvt. Ltd.
+#### <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/work.png" width="18"> I’m currently working as Software Developer | Sr. Magento Developer | IBM India Pvt. Ltd.
 
 
 ## <img src="https://raw.githubusercontent.com/manishjoy/manishjoy/master/assets/code.png" width="24"> Tech Stack
